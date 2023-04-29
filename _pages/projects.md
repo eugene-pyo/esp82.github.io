@@ -2,7 +2,7 @@
 layout: page
 title: about me
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I was born and raised Fort Lee, NJ to parents of immigrant from South Korea. Growing up in North Jersey and having New York City as my playground, I was able to experience diversity through my friends and surrounding and even from my household. My background influenced my interests and hobbies greatly so click through to read about my experiences.
 nav: true
 nav_order: 2
 display_categories: 
