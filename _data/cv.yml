@@ -73,6 +73,40 @@
       description:
         - Worked for the accounting team to audit and optimize mix of SG&A. Used Excel and QuickBooks to analyze financial statements to come up with creative solutions to keep company's net profit stay strong. Worked for the IT department to valuate customer ratings and highlight key words in reviews on electronics products using R programming.
 
+title: Experience
+  type: time_table
+  contents:
+    - title: Valuation of NBA Free Agents
+      institution: Learning with Big Messy Data, Cornell University
+      year: 2023
+      description:
+        - Project takes a stance as a NBA team's front office with the objective to valuate a free agent's value of new contract based on past performances. Retrieved data from online sources, complete rigorous data cleaning and merging, and performed various data analysis techniques such as regression, feature engineering, and classification.
+    - title: Improving OLS Linear Regression for Portfolio Management
+      institution: Python for Finance, Cornell University
+      year: 2022
+      description:
+        - Picked one ticker to compare it with 19 other tickers using data retrieved from Yahoo Finance. Generated minimum-variance portfolios and used OLS, Ridge, LASSO, Elastic Net to get the regression coefficient weights with Python.
+    - title: Optimization Mini Coding Series
+      institution: Optimization I, Cornell University
+      year: 2022
+      description:
+        - Performed many tasks relevant to optimization using Python and CVXPY which is a modeling language for convex optimization problems. Projects include Assignment problem, Magic Square (3x3), Branch-and-Bound.
+    - title: Homies Business Plan
+      institution: Technical Entrepreneurship, University of Rochester
+      year: 2021
+      description: 
+        - Took on the CMO role and created a full business plan of a social media app for roommate/hangout pairing; in charge of performing primary statistical research using Hypothesis testing to calculate target market and asking investment money; presented in front of three real investors and placed 1st in the class for submission to contest
+    - title: Market share of Automobiles
+      institution: Market Research and Analytics, University of Rochester
+      year: 2019
+      description:
+        - Used regression to finding optimized marketing investment mix; used Hypothesis testing to find effective market (geographic) segmentation, conjoint analysis to understand target consumers’ automobile brand interest
+    - title: Predicting Advancement to Knockout Stage in FIFA World Cup
+      institution: Categorical Data Analysis, University of Rochester
+      year: 2019
+      description:
+        - Used R to create scatterplots, stacked bar plots, two-way tables, and concluded with logistic regression equation to make successful predictions on the hypothesis
+
 - title: Honors and Awards
   type: time_table
   contents:
@@ -99,4 +133,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Basketball, Soccer, Hip-Hop and K-Pop Dance, Traveling, Cooking
