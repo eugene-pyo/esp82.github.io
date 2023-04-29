@@ -73,7 +73,7 @@
       description:
         - Worked for the accounting team to audit and optimize mix of SG&A. Used Excel and QuickBooks to analyze financial statements to come up with creative solutions to keep company's net profit stay strong. Worked for the IT department to valuate customer ratings and highlight key words in reviews on electronics products using R programming.
 
-title: Experience
+- title: Projects
   type: time_table
   contents:
     - title: Valuation of NBA Free Agents
