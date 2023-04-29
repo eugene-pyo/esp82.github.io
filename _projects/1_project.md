@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: sports
+description: 
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
@@ -42,6 +42,8 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="caption">
     This image can also have a caption. It's like magic.
 </div>
+
+## New York Knicks
 
 You can also put regular text between your rows of images.
 Say you wanted to write a little bit about your project before you posted the rest of the images.
