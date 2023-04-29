@@ -18,7 +18,9 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello. My name is Eugene Pyo and I am currently a graduate student in the M.Eng Financial Engineering program at Cornell University. 
+Hello. My name is Eugene Pyo and welcome to my personal website in which I share some background information about me and about my educational and professional experience history.
+
+I am currently a graduate student in the M.Eng Financial Engineering program at Cornell University. 
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
