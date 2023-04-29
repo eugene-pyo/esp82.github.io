@@ -20,12 +20,22 @@
         - title: M.Eng Financial Engineering
           contents:
             - Monte Carlo Simulation, Monte Carlo Methods in Financial Engineering, Optimization I, Derivatives I and II, Investment & Portfolio Management, Behavioral Finance, Python for Finance, Learning with Big Messy Data, Big Data Technologies, Real Estate Development Process I
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Undergraduate Program
+      institution: University of Rochester
+      year: 2017-2021
       description:
-        - Description 1.
-        - Description 2.
+        - title: BA Mathematics-Statistics
+          contents:
+            - Operations Research, Introduction to Linear Models, Functions of Real Variable, Linear Algebra, Categorical Data Analysis, Computational Introduction to Statistics, Introduction to Probability, Introduction to Mathematical Statistics
+        - title: Minor Business
+          contents:
+            - Financial Accounting, Principles of Finance, Market Research & Analytics, Technical Entrepreneurship, Real Estate Principles
+        - title: Minor Computer Science
+          contents:
+            - Introduction to Programming (Python), Introduction to Web Development, Social Implications of Computing
+        - title: Clubs/Activities
+          contents:
+            - UR Quantitative Finance Club (Founding Member), RICE Dance Crew (Head Teacher), UR Actuarial Club, Korean American Student Association
 
 - title: Experience
   type: time_table
