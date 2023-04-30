@@ -39,6 +39,18 @@ I went to Europe with my family. We first went to London and visited the Big Ben
 ## Japan 2018
 I took a quick four day stop at Japan before going to South Korea. With one of my closest friends, I went to the cities of Osaka and Kyoto. The two cities have big contrasts and it was nice to experience them both: Osaka is filled with entertainment as Kyoto is a historic city. We went to Osaka Castle, Osaka Aquarium, Nara deer park, Arashimaya bamboo forest, and Fushimi Inari-taisha Shrine. Food was a highlight of the trip as I ate great ramen, sushi, udon, and soba noodles.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/japan1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/japan2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
 ## Hawaii 2019
 This was a spring break trip with members of a dance crew I was invovled in during college. We had a local Hawaiian go with us, so we were able to go to the local spots. We snorkeled at shark cove, sun bathed at Waikiki beach, and went hiking. We also went to Dole pineapple farm and ate local foods like pokebowls. This trip made me experience the natural beauties I have never seen before.
 
