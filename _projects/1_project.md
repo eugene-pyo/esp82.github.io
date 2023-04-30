@@ -2,7 +2,7 @@
 layout: page
 title: sports
 description: 
-img: assets/img/12.jpg
+img: assets/img/knicks.jpg
 importance: 1
 category: 
 ---

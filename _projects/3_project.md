@@ -2,7 +2,7 @@
 layout: page
 title: travel
 description: 
-img: assets/img/7.jpg
+img: assets/img/seattle.jpg
 importance: 3
 category: 
 ---
