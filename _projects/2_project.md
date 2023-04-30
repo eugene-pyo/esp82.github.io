@@ -10,6 +10,18 @@ category:
 ## Music
 When you see me walking around by myself, I will always see me with airpods on. I enjoy listening to many different types of genres of music like hip-hop/rap, pop, R&B, and K-Pop. My favorite artists are Kendrick Lamar, Khalid, Justin Bieber, Bigbang, and Blackpink. I like how music allows me to embrace the Korean-American cultural dichotomy. I plan on going to a Blackpink concert at Metlife Stadium in August.
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/blackpink.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/khalid.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    You can also have artistically styled 2/3 + 1/3 images, like these.
+</div>
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
@@ -51,7 +63,7 @@ Back in high school we had an event called Diversity Day. This is when different
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm- mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/dance1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
