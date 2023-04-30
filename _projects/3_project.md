@@ -15,7 +15,7 @@ I went to Europe with my family. We first went to London and visited the Big Ben
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/europe2.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/europe2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/europe1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -29,16 +29,16 @@ I went to Europe with my family. We first went to London and visited the Big Ben
 ## Japan 2018
 I took a quick four day stop at Japan before going to South Korea. With one of my closest friends, I went to the cities of Osaka and Kyoto. The two cities have big contrasts and it was nice to experience them both: Osaka is filled with entertainment as Kyoto is a historic city. We went to Osaka Castle, Osaka Aquarium, Nara deer park, Arashimaya bamboo forest, and Fushimi Inari-taisha Shrine. Food was a highlight of the trip as I ate great ramen, sushi, udon, and soba noodles.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/japan1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/japan3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/japan2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
 </div>
 
 ## Hawaii 2019
@@ -58,7 +58,7 @@ I went with a group of high school friends because we had another friend staying
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/seattle.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/seattle.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -70,13 +70,13 @@ The first stop was to Los Angeles. I went to Universal Studios, Holleywood Walk 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cali1.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cali1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/cali2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/cali3.heic" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/cali3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
