@@ -13,6 +13,29 @@ I have visited many places in America and also abroad. I try to go to South Kore
 ## Europe 2018
 I went to Europe with my family. We first went to London and visited the Big Ben, Buckingham Palace, Tower Bridge, and a Tottenham Hospur soccer match. I had a great time shopping on Bond Street and eating foods like fish and chips. The next part of the itinerary was to the capital of France. We visited world-reknowned landmarks like Notre Dame Cathedral, Eiffel Tower, Louvre Museum, and the Arc de Triomphe. We also ate signature foods like escargot and macarons. I had such a great time and hope to go back to these cities again.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/europe2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/europe1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/europe3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    This image can also have a caption. It's like magic.
+</div>
+
 ## Japan 2018
 I took a quick four day stop at Japan before going to South Korea. With one of my closest friends, I went to the cities of Osaka and Kyoto. The two cities have big contrasts and it was nice to experience them both: Osaka is filled with entertainment as Kyoto is a historic city. We went to Osaka Castle, Osaka Aquarium, Nara deer park, Arashimaya bamboo forest, and Fushimi Inari-taisha Shrine. Food was a highlight of the trip as I ate great ramen, sushi, udon, and soba noodles.
 
