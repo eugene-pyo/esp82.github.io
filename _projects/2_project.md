@@ -1,6 +1,6 @@
 ---
 layout: page
-title: music/dance
+title: Music/Dance
 description: 
 img: assets/img/dance1.jpg
 importance: 2

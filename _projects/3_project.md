@@ -1,6 +1,6 @@
 ---
 layout: page
-title: travel
+title: Travel
 description: 
 img: assets/img/seattle.jpg
 importance: 3

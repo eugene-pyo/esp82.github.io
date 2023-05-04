@@ -1,6 +1,6 @@
 ---
 layout: page
-title: sports
+title: Sports
 description: 
 img: assets/img/knicks.jpg
 importance: 1
