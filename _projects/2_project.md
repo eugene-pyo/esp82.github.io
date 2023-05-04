@@ -32,5 +32,5 @@ Back in high school we had an event called Diversity Day. This is when different
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Picture during my dance crew's showcase
 </div>
