@@ -47,7 +47,7 @@ I took a quick four day stop at Japan before going to South Korea. With one of m
 </div>
 
 ## Hawaii 2019
-This was a spring break trip with members of a dance crew I was invovled in during college. We had a local Hawaiian go with us, so we were able to go to the local spots. We snorkeled at shark cove, sun bathed at Waikiki beach, and went hiking. We also went to Dole pineapple farm and ate local foods like pokebowls. This trip made me experience the natural beauties I have never seen before.
+This was a spring break trip with members of a dance crew I was involved in during college. We had a local Hawaiian go with us, so we were able to go to the spots tourists would not know. We snorkeled at shark cove, sun bathed at Waikiki beach, and went hiking. We also went to Dole pineapple farm and ate local foods like pokebowls. This trip made me experience the natural beauties I have never seen before.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -71,7 +71,7 @@ I went with a group of high school friends because we had another friend staying
 </div>
 
 ## California 2022
-The first stop was to Los Angeles. I went to Universal Studios, Holleywood Walk of Fame, Koreatown, and Santa Monica Beach. I then flew to San Francisco to visit two college friends. We went to the Golden Gate Bridge, Google campus, and by the pier to see wild sea lions.
+The first stop was to Los Angeles. I went to Universal Studios, Hollywood Walk of Fame, Koreatown, and Santa Monica Beach. I then flew to San Francisco to visit two college friends. We went to the Golden Gate Bridge, Google campus, and by the pier to see wild sea lions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
